@@ -1,0 +1,25 @@
+{
+  "name": "sass-gulp-workflow",
+  "version": "1.0.0",
+  "description": "Workflow with NPM, SASS, GULP and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migikaspar/SASS-Gulp-Workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GIT",
+    "GULP"
+  ],
+  "author": "Misa Kaspar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migikaspar/SASS-Gulp-Workflow/issues"
+  },
+  "homepage": "https://github.com/migikaspar/SASS-Gulp-Workflow#readme"
+}
