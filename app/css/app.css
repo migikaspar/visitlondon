@@ -6,3 +6,8 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
+
+h1:hover {
+  -webkit-transition: color 1s ease;
+  transition: color 1s ease;
+}

@@ -6,3 +6,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
+
+h1:hover {
+  transition: color 1s ease;
+}
