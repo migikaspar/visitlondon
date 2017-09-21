@@ -83,6 +83,7 @@ gulp.task('watch', ['serve', 'sass', 'copy', 'clean-html', 'clean-scripts', 'scr
   gulp.watch([SOURCEPATHS.sassSource], ['sass']);
   gulp.watch([SOURCEPATHS.htmlSource], ['copy']);
   gulp.watch([SOURCEPATHS.jsSource], ['scripts']);
+  gulp.watch([SOURCEPATHS.imgSource], ['images']);
 });
 
 gulp.task('default', ['watch']);
